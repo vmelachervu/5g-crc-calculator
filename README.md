@@ -8,4 +8,4 @@
 5.gCRC11(D) - 11-bit CRC - D^11+D^10+D^9+D^5+1 
 6.gCRC6(D) - 6-bit CRC - D^6+D^5+1 
 
-This program is a matlab implementation for interactively computing the CRC and validating the same for any user-chosen CRC for the above list.   \
+This program is a matlab implementation for interactively computing the CRC and validating the same for any user-chosen CRC for the above list.   
