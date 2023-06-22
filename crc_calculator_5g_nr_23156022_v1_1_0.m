@@ -1,6 +1,6 @@
 %{
     Program name : 5G NR CRC calculator and validator as per 3GPP TS38.212-f20 standard
-    eMasters - Communication Systems
+    eMasters - Communication Systems, IIT - Kanpur
     Simulation-based Design of 5G NR Wireless Standard - EE922    
     Roll number : 23156022
     Student Name : Venkateswar Reddy Melachervu    
